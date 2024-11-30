@@ -1,15 +1,15 @@
-Step Count vs. Instagram Activity: A Correlation Analysis
+# Step Count vs. Instagram Activity: A Correlation Analysis
 
-Motivation:
+# Motivation:
 
 Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram, understanding how screen time affects daily movement is important for promoting a balanced lifestyle. This project aims to explore the relationship between my daily step count and Instagram activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I hope to gain insights into how my social media usage impacts my physical activity and vice versa.
 
-Data Source
+# Data Source
 
 Step Count Data: Extracted from the Apple Health app. This data includes the total number of steps I took each day over a specified period.
 Instagram Activity Data: Recorded from Instagram's Your Activity feature, which provides insights into the total time spent on the app daily.
 
-Data Collection Process
+# Data Collection Process
 
 Step Count:Synced from my smartphone to the health app.
 Exported as a txt file for ease of analysis.
@@ -17,7 +17,7 @@ Exported as a txt file for ease of analysis.
 Instagram Activity:Accessed through Instagram's "Your Activity" feature under settings.
 Daily usage time waslogged into a txt corresponding to each day's date.,
 
-Project Idea
+# Project Idea
 
 This project investigates whether there is a correlation between my step count and Instagram activity:
 
