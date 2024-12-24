@@ -2,7 +2,7 @@
 
 # Motivation:
 
-Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram, understanding how screen time affects daily movement is important for promoting a balanced lifestyle. This project aims to explore the relationship between my daily step count and Instagram activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I hope to gain insights into how my social media usage impacts my physical activity and vice versa.
+Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram and Tiktok, understanding how screen time affects daily movement is important for promoting a balanced lifestyle. This project aims to explore the relationship between my daily step count vs Instagram and Tiktok activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I hope to gain insights into how my social media usage impacts my physical activity and vice versa.
 
 # Data Source
 
