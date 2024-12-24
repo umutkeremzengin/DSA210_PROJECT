@@ -3,92 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Effect of Social Media on Daily Activity</title>
+    <title>Step Count vs Social Media Likes</title>
     <style>
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #2c2c2c;
-            color: #fff;
+            background-color: #f0f0f0; /* Gray background */
+            color: #333;
         }
         header {
-            background-color: #444;
+            background-color: #ffffff; /* White background for header */
             padding: 10px 20px;
-            position: fixed;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            position: sticky;
             top: 0;
-            width: 100%;
             z-index: 1000;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        header .title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            display: inline-block;
+            margin: 0;
+        }
+        nav {
+            float: right;
         }
         nav a {
-            color: #fff;
             text-decoration: none;
             margin: 0 15px;
-            font-weight: bold;
+            font-size: 1rem;
+            color: #333;
         }
         nav a:hover {
             text-decoration: underline;
-        }
-        section {
-            padding: 100px 20px;
-            text-align: center;
+            color: #555;
         }
         .hero {
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            background-color: #1e1e1e;
+            text-align: center;
+            background: linear-gradient(to bottom, #ffffff, #d6d6d6); /* Light gray gradient */
+            padding: 50px 20px;
+            border-radius: 8px;
+            margin: 20px auto;
+            max-width: 80%;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
         }
         .hero h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 10px;
         }
         .hero h2 {
-            font-size: 1.5rem;
-            color: #ccc;
+            font-size: 1.2rem;
+            color: #666;
+        }
+        section {
+            margin: 40px auto;
+            max-width: 80%;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        section h1 {
+            font-size: 1.8rem;
+            color: #333;
+        }
+        section p {
+            font-size: 1rem;
+            color: #555;
         }
         footer {
             text-align: center;
-            padding: 20px;
-            background-color: #444;
-            color: #fff;
+            padding: 10px;
+            background-color: #ffffff;
+            box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1);
+            color: #333;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <header>
-        <div>Effect of Music</div>
+        <div class="title">Step & Social Media Analysis by Umut Kerem Zengin</div>
         <nav>
-            <a href="#Introduction">Introduction</a>
-            <a href="#Health-data">Health Data</a>
-            <a href="#Social media-data">Spotify Data</a>
+            <a href="#home">Home</a>
+            <a href="#step-analysis">Step Analysis</a>
+            <a href="#social-media">Social Media</a>
             <a href="#findings">Findings</a>
         </nav>
     </header>
 
-    <section id="introduction" class="hero">
-        <h1>Effect of Social Media On Daily Activity</h1>
-        <h2>Umut Kerem Zengin 30668</h2>
+    <section class="hero" id="home">
+        <h1>Step Count vs Social Media Likes</h1>
+        <h2>Exploring the Relationship Between Physical Activity and Social Media Engagement</h2>
     </section>
 
-    <section id="health-data">
-        <h1>Health Data</h1>
-        <p>Details about the impact of music on health.</p>
+    <section id="step-analysis">
+        <h1>Step Analysis</h1>
+        <p>Analysis of step counts over time and their impact on daily activity.</p>
     </section>
 
-    <section id="spotify-data">
-        <h1>Spotify Data</h1>
-        <p>Analysis of Spotify usage related to daily activity.</p>
+    <section id="social-media">
+        <h1>Social Media Engagement</h1>
+        <p>Exploring the number of likes and interactions across different platforms.</p>
     </section>
 
     <section id="findings">
         <h1>Findings</h1>
-        <p>Summary of findings and conclusions.</p>
+        <p>Summary of the correlation between step counts and social media engagement.</p>
     </section>
 
     <footer>
