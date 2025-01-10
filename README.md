@@ -1,49 +1,102 @@
-# Step Count vs. Instagram Activity: A Correlation Analysis
+# 📊 Step Count vs. Instagram Activity: A Correlation Analysis
 
-# Motivation:
+## **Motivation**
+Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram and TikTok, understanding how screen time affects daily movement is essential for promoting a balanced lifestyle.
 
-Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram and Tiktok, understanding how screen time affects daily movement is important for promoting a balanced lifestyle. This project aims to explore the relationship between my daily step count vs Instagram and Tiktok activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I hope to gain insights into how my social media usage impacts my physical activity and vice versa.
-You can reach my website here : https://umutkeremzengin.github.io/DSA210_PROJECT/ 
+This project explores the relationship between my daily step count and Instagram/TikTok activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I aim to gain insights into how my social media usage impacts my physical activity and vice versa.
 
+🔗 **You can explore the project in detail on my website:** [Project Website](https://umutkeremzengin.github.io/DSA210_PROJECT/)
 
-# Data Source
+---
 
-Step Count Data: Extracted from the Apple Health app. This data includes the total number of steps I took each day over a specified period.
-Instagram Activity Data: Recorded from Instagram's Your Activity feature, which provides insights into the total time spent on the app daily.
+## **Data Source**
 
+### 🏋️ **Step Count Data**
+- Extracted from the Apple Health app.
+- Includes the total number of steps taken each day over a specified period.
 
-# Data Collection Process
+### 🔍 **Instagram Activity Data**
+- Logged through Instagram’s "Your Activity" feature.
+- Provides daily usage time spent on the app.
 
-Step Count:Synced from my smartphone to the health app.
-Exported as a txt file for ease of analysis.
+---
 
-Instagram Activity:Accessed through Instagram's "Your Activity" feature under settings.
-Daily usage time waslogged into a txt corresponding to each day's date.,
+## **Data Collection Process**
 
-# Project Idea
+### 📊 **Step Count**
+- Synced from my smartphone to the Apple Health app.
+- Exported as a `.txt` file for analysis.
 
-This project investigates whether there is a correlation between my step count and Instagram activity:
+### 🔰 **Instagram Activity**
+- Accessed via Instagram’s "Your Activity" feature under settings.
+- Logged manually into a `.txt` file with daily timestamps.
 
-Hypothesis: Increased Instagram activity might lead to a decrease in physical activity (negative correlation). Conversely, higher physical activity might reduce Instagram usage.
+---
 
-Objective: To identify and interpret any correlation (positive, negative, or none) between these two variables and provide possible deductions based on the findings.
+## **Project Idea**
 
-The project begins with data preprocessing, where both datasets—step count and Instagram activity—will be cleaned and formatted to ensure consistency and accuracy. This step includes aligning the datasets by date to facilitate a meaningful analysis. By matching daily step counts with Instagram usage time, I will create a combined dataset ready for exploration.
+This project investigates whether there is a correlation between my step count and Instagram activity.
 
-Following preprocessing, I will conduct an exploratory data analysis (EDA) to uncover trends and patterns within the data. This phase involves visualizing the step count and Instagram activity over time, along with calculating basic statistical measures such as the mean, median, and standard deviation for both variables. These initial insights will set the foundation for deeper analysis.
+### 🕵️ **Hypothesis**
+- Increased Instagram activity might lead to a decrease in physical activity (**negative correlation**).
+- Conversely, higher physical activity might reduce Instagram usage.
 
-Once the data is explored, I will perform a correlation analysis to investigate the relationship between step count and Instagram activity. Using statistical measures like Pearson’s or Spearman’s correlation coefficients, I will determine the strength and direction of any correlation between these two variables. Visualization techniques such as scatter plots and heatmaps will help illustrate these relationships clearly and intuitively.
+### 🎯 **Objective**
+To identify and interpret any correlation (**positive, negative, or none**) between these two variables and derive meaningful insights based on the findings.
 
-The findings from the analysis will be used to derive meaningful deductions. For example, I will explore whether increased Instagram activity correlates with reduced step counts or if no significant relationship exists. These deductions will offer insights into how social media usage might impact physical activity and vice versa, providing a deeper understanding of my own habits.
+---
 
-Finally, the results and conclusions will be documented in a comprehensive report. This report will summarize key findings, highlight notable patterns, and discuss potential implications for maintaining a balanced lifestyle. Where appropriate, I will provide recommendations for improving the interplay between digital and physical activities.
+## **Workflow**
 
+### **1. Data Preprocessing**
+- Clean and format both datasets (step count and Instagram activity).
+- Align datasets by date for consistency.
+- Combine the two datasets into a unified structure for analysis.
 
+### **2. Exploratory Data Analysis (EDA)**
+- Visualize step count and Instagram activity trends over time.
+- Calculate basic statistics (mean, median, standard deviation).
+- Identify initial patterns and anomalies.
 
-Expected Deliverables: A cleaned and well-structured dataset combining step count and Instagram activity data.
-Visualizations and statistical analysis demonstrating any observed relationships.
-A final report detailing the findings and their implications.
+### **3. Correlation Analysis**
+- Use statistical measures (Pearson’s or Spearman’s correlation coefficients) to investigate relationships.
+- Visualize results through scatter plots and heatmaps.
 
-Notes
-This project is based entirely on my personal, historical data.
-No assumptions are made for missing or non-existent data; all insights are derived directly from the available records.
+### **4. Key Findings & Deductions**
+- Analyze whether increased Instagram activity correlates with reduced step counts.
+- Highlight significant patterns and discuss potential implications.
+
+### **5. Final Report**
+- Document results in a comprehensive report.
+- Summarize findings, patterns, and implications.
+- Provide actionable insights for balancing digital and physical activities.
+
+---
+
+## **Expected Deliverables**
+
+- 📄 A cleaned and well-structured dataset combining step count and Instagram activity data.
+- 🔦 Visualizations and statistical analysis demonstrating any observed relationships.
+- 🔒 A final report detailing findings and their implications for lifestyle balance.
+
+---
+
+## **Important Notes**
+
+- This project is based entirely on my personal, historical data.
+- No assumptions were made for missing or non-existent data.
+- All insights are derived directly from the available records.
+
+---
+
+## **Technologies Used**
+
+- **Python**: Data preprocessing, analysis, and visualization.
+- **Pandas**: For data manipulation and cleaning.
+- **Matplotlib/Seaborn**: For creating insightful visualizations.
+- **Statistical Libraries**: For correlation analysis (Pearson/Spearman).
+
+---
+
+### Thank you for exploring this project! 
+Feel free to fork the repository, suggest improvements, or reach out with feedback. 🚀
