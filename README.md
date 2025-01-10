@@ -79,7 +79,7 @@ or basically you can find the analysis file here:
 2. **Steady Influence of Instagram**: Instagram likes exhibit steadier patterns compared to TikTok but still show a pronounced inverse relationship with step counts.
 3. **Graphs Analysis**: Graphs and plots reveal sporadic periods where higher like counts align with reduced step counts, reinforcing the hypothesis of an inverse relationship. However, these patterns are not uniform across all timeframes, highlighting that external factors such as seasonal changes, lifestyle shifts, or varying platform engagement might mediate this relationship.
 ### 🧩 **Conclusion on the Hypothesis**
-The analysis partially supports the hypothesis. TikTok likes exhibit a stronger inverse relationship with physical activity, while Instagram likes demonstrate a more subtle correlation.
+Overall, the findings support the hypothesis to a moderate degree, with TikTok engagement showing a stronger and more consistent inverse relationship with physical activity, while Instagram’s influence appears subtler. These results suggest that while social media activity can impact physical habits, the extent of this influence depends on the platform and contextual factors surrounding usage.
 
 ---
 
