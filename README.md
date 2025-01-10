@@ -77,8 +77,7 @@ or basically you can find the analysis file here:
 ### 🔍 **Correlation Observations**
 1. **Inverse Trends**: Several visualizations reveal an inverse relationship between step counts and likes, particularly for TikTok, suggesting a potential substitution effect between time spent on the platform and physical activity.
 2. **Steady Influence of Instagram**: Instagram likes exhibit steadier patterns compared to TikTok but still show a pronounced inverse relationship with step counts.
-3. **Scatter Plot Analysis**: Highlights a weak correlation between step counts and like counts overall, with some isolated periods showing stronger trends.
-
+3. **Graphs Analysis**: Graphs and plots reveal sporadic periods where higher like counts align with reduced step counts, reinforcing the hypothesis of an inverse relationship. However, these patterns are not uniform across all timeframes, highlighting that external factors such as seasonal changes, lifestyle shifts, or varying platform engagement might mediate this relationship.
 ### 🧩 **Conclusion on the Hypothesis**
 The analysis partially supports the hypothesis. TikTok likes exhibit a stronger inverse relationship with physical activity, while Instagram likes demonstrate a more subtle correlation.
 
