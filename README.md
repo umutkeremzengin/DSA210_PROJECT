@@ -80,7 +80,7 @@ or basically you can find the analysis file here:
 3. **Scatter Plot Analysis**: Highlights a weak correlation between step counts and like counts overall, with some isolated periods showing stronger trends.
 
 ### 🧩 **Conclusion on the Hypothesis**
-The analysis partially supports the hypothesis. TikTok likes exhibit a stronger inverse relationship with physical activity, while Instagram likes demonstrate a more subtle or negligible correlation.
+The analysis partially supports the hypothesis. TikTok likes exhibit a stronger inverse relationship with physical activity, while Instagram likes demonstrate a more subtle correlation.
 
 ---
 
