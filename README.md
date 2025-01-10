@@ -49,7 +49,7 @@ To identify and interpret any correlation (**positive, negative, or none**) betw
 - Identify initial patterns and anomalies.
 
 ### **3. Correlation Analysis**
-- Use statistical measures (Pearson’s or Spearman’s correlation coefficients) to investigate relationships.
+- Use statistical measures to investigate relationships.
 - Visualize results through scatter plots and heatmaps.
 
 ### **4. Key Findings & Deductions**
@@ -57,17 +57,10 @@ To identify and interpret any correlation (**positive, negative, or none**) betw
 - Highlight significant patterns and discuss potential implications.
 
 ### **5. Final Report**
-- Document results in a comprehensive report.
+- Document results in a comprehensive website.
 - Summarize findings, patterns, and implications.
 - Provide actionable insights for balancing digital and physical activities.
 
----
-
-## **Expected Deliverables**
-
-- 📄 A cleaned and well-structured dataset combining step count and social media activity data.
-- 🔦 Visualizations and statistical analysis demonstrating any observed relationships.
-- 🔒 A final report detailing findings and their implications for lifestyle balance.
 
 ---
 
@@ -86,7 +79,7 @@ To identify and interpret any correlation (**positive, negative, or none**) betw
 - **JavaScript**: For integrating functionalities and enhancing interactivity.
 - **Pandas**: For data manipulation and cleaning.
 - **Matplotlib/Seaborn**: For creating insightful visualizations.
-- **Statistical Libraries**: For correlation analysis (Pearson/Spearman).
+- **Statistical Libraries**: For correlation analysis.
 
 ---
 
