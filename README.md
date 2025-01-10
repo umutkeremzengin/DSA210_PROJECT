@@ -9,27 +9,17 @@ The hypothesis driving this exploration is that an increase in social media like
 
 ---
 
-## **Data Source**
+## **Data Collection Process**
 
 ### 🏋️ **Step Count Data**
-- Retrieved from Apple Health XML files.
+- Synced from my smartphone to the Apple Health app. Retrieved from Apple Health XML files.
 - Includes the total number of steps taken each day over a specified period.
 
-### 🔍 **Instagram and TikTok Activity Data**
+### 🔰 **Instagram and TikTok Activity Data**
 - TikTok and Instagram like counts extracted in JSON file formats.
 - Provides daily engagement metrics.
 
----
 
-## **Data Collection Process**
-
-### 📊 **Step Count**
-- Synced from my smartphone to the Apple Health app.
-- Exported as `.xml` files for analysis.
-
-### 🔰 **Instagram and TikTok Activity**
-- Instagram and TikTok engagement data extracted in `.json` formats.
-- Logged with daily timestamps.
 
 ---
 
