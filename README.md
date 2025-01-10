@@ -69,6 +69,33 @@ The data analysis is located in the `main` folder.
 or basically you can find the analysis file here:  
 [analysis](https://github.com/umutkeremzengin/DSA210_PROJECT/blob/main/DSA210%20data-checkpoint.ipynb)
 
+
+---
+
+## **Findings**
+
+### 🔍 **Correlation Observations**
+1. **Inverse Trends**: Several visualizations reveal an inverse relationship between step counts and likes, particularly for TikTok, suggesting a potential substitution effect between time spent on the platform and physical activity.
+2. **Steady Influence of Instagram**: Instagram likes exhibit steadier patterns compared to TikTok and do not show a pronounced inverse relationship with step counts.
+3. **Scatter Plot Analysis**: Highlights a weak correlation between step counts and like counts overall, with some isolated periods showing stronger trends.
+
+### 🧩 **Conclusion on the Hypothesis**
+The analysis partially supports the hypothesis. TikTok likes exhibit a stronger inverse relationship with physical activity, while Instagram likes demonstrate a more subtle or negligible correlation.
+
+---
+
+## **Limitations and Future Work**
+
+### ⚠️ **Limitations**
+- Limited access to detailed usage metrics, such as screen time, restricted a more comprehensive understanding.
+- Data is derived solely from personal historical records, which may limit generalizability.
+
+### 🚀 **Future Work**
+- Conduct a longitudinal study to analyze the consistency of trends over multiple years.
+- Expand metrics to include additional behavioral data (e.g., content type, screen time).
+- Explore lifestyle factors and their interactions with digital and physical activity patterns.
+
+  
 ## **Important Notes**
 
 - This project is based entirely on my personal, historical data.
