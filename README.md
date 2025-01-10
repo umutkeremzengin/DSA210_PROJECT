@@ -1,4 +1,4 @@
-# 📊 Step Count vs. Instagram Activity: A Correlation Analysis
+# 📊 Physical vs. Digital Activity: A Correlation Analysis
 
 ## **Motivation**
 Physical activity and digital habits are integral parts of modern life, often influencing each other. With the increasing use of social media platforms like Instagram and TikTok, understanding how screen time affects daily movement is essential for promoting a balanced lifestyle.
