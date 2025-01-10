@@ -50,7 +50,7 @@ To identify and interpret any correlation (**positive, negative, or none**) betw
 
 ### **3. Correlation Analysis**
 - Use statistical measures to investigate relationships.
-- Visualize results through scatter plots and heatmaps.
+- Visualize results through graphs, scatter plots and heatmaps.
 
 ### **4. Key Findings & Deductions**
 - Analyze whether increased Instagram and TikTok activity correlates with reduced step counts.
@@ -76,7 +76,7 @@ or basically you can find the analysis file here:
 
 ### 🔍 **Correlation Observations**
 1. **Inverse Trends**: Several visualizations reveal an inverse relationship between step counts and likes, particularly for TikTok, suggesting a potential substitution effect between time spent on the platform and physical activity.
-2. **Steady Influence of Instagram**: Instagram likes exhibit steadier patterns compared to TikTok and do not show a pronounced inverse relationship with step counts.
+2. **Steady Influence of Instagram**: Instagram likes exhibit steadier patterns compared to TikTok but still show a pronounced inverse relationship with step counts.
 3. **Scatter Plot Analysis**: Highlights a weak correlation between step counts and like counts overall, with some isolated periods showing stronger trends.
 
 ### 🧩 **Conclusion on the Hypothesis**
