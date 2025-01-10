@@ -67,7 +67,7 @@ To identify and interpret any correlation (**positive, negative, or none**) betw
 
 The data analysis is located in the `utils` folder.  
 You can find the main analysis file here:  
-[analysis.ipynb](s)
+[analysis](https://github.com/umutkeremzengin/DSA210_PROJECT/blob/main/DSA210%20data-checkpoint.ipynb)
 
 ## **Important Notes**
 
