@@ -5,7 +5,7 @@ Physical activity and digital habits are integral parts of modern life, often in
 
 This project explores the relationship between my daily step count and Instagram/TikTok activity. Are they negatively correlated, positively correlated, or unrelated? By analyzing this relationship, I aim to gain insights into how my social media usage impacts my physical activity and vice versa.
 
-🔗 **You can explore the project in detail on my website:** [Project Website](https://umutkeremzengin.github.io/DSA210_PROJECT/)
+🔗 **You can explore the project in detail on my website:** [Project Website](vercel)
 
 ---
 
